@@ -3,7 +3,7 @@ This repo will exhibit an overview of our restaurant before the opening event. S
 
 # Restaurant overView 
 
-- Name of the restaurant: *Al-Rimawe Burgers*
+- Name of the restaurant: *Al-Rimawe Restaurant*
 
 - Type of dishes:
 
@@ -18,10 +18,16 @@ This repo will exhibit an overview of our restaurant before the opening event. S
 # Menu
 
 * Drinks: 
-1. Water .................... 0.5 $.
+1. Water .................... 0.5 $.     
 2. Pepsi .................... 0.7 $.
 3. Orange juice ............. 1.0 $.
 
 * Main dishes of today: 
 1. Mansaf (Jordanian)........ 6.0 $.
 2. Chiken masalah (Indian)... 8.0 $.
+---
+# Below you can see pics of our dishes and once you click on any type of dishes you will redirected to web page to know more
+- [Mansaf](https://en.wikipedia.org/wiki/Mansaf) ![Mansaf](https://1.bp.blogspot.com/-Hpl0hnzq3Ag/WzCrhqTTZJI/AAAAAAAAK6Q/7_yYs-pxhYA4muoa3IRBBcwtRU6zp4M1QCEwYBhgL/s1600-rw/Mansaf_02.jpg)
+
+- [Chicken masalah](https://cafedelites.com/chicken-tikka-masala/) 
+![Masala](https://littlesunnykitchen.com/wp-content/uploads/Chicke-tikka-masala-2-7.jpg)
