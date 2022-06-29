@@ -31,3 +31,10 @@ This repo will exhibit an overview of our restaurant before the opening event. S
 
 - [Chicken masalah](https://cafedelites.com/chicken-tikka-masala/) 
 ![Masala](https://littlesunnykitchen.com/wp-content/uploads/Chicke-tikka-masala-2-7.jpg)
+
+---
+
+# Our wireframe would be like this as a preliminary approach :
+*Please click on the link below to see how our web-site gonna be:*
+-
+![Web-Site overview](https://user-images.githubusercontent.com/61578441/176430163-1a16ffdd-b9be-49ec-a116-3ff0157d507e.jpg)
